@@ -1,6 +1,6 @@
 
 ## Screenshot
-![](./assets/app-screenshot/Screenshot 2021-09-03 at 11.32.53 PM.png)
+![](./assets/app-screenshot/Screenshot2021-09-03at11.32.53PM.png)
 
 ## Built using
 - Semantic HTML, Vanilla Js & some CSS flexbox
